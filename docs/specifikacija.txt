@@ -1,0 +1,31 @@
+Projekat Igrannonica:
+
+Projekat Igrannonica je alat namenjen za izucavanje osnovnih principa rada vestackih neuronskih mreza kroz interaktivan rad.
+
+Planiramo da implementiramo sledece funkcionalnosti
+	
+		-Uvoz podataka u formi .CSV fajla.
+		-Vizuelizacija podataka u formi tabele uz prikaz osnovnih statistickih podataka po kolonama.
+		-Izbor ulaznih velicina i izlane velicine. 
+		-Izbor encoding-a za kategorijske promenljive.
+		-Zadavanje hiperparametara neuronske mreze.
+		-Funkcionalnost pokretanja obuke.
+		-Vizuelizacija progresa u toku obuke.
+		-Poredjenje dobijenih podataka sa testnim skupom. 		
+		-Mogucnost cuvanja problema i njihovo ponovno koriscenje, na osnovu korisnika.
+		-Upravljenje korisnicima(register,login), privatni i javni problemi.
+		-Razliciti nacini za biranje validacionog skupa.
+		-Kreiranje vise modela za isti problem.
+		-Poredjenje rezultata razlicitih problema.
+		-Rad sa nedostajucim podacima. 
+
+
+Za razvoj projekta koristicemo sledece tehnologije:
+	Frontend: Angular
+	Backend: .NET
+	WebService: TensorFlow
+
+
+
+	
+		
