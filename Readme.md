@@ -1,9 +1,3 @@
-Linkovi:
-http://147.91.204.115:10123 - BACKEND
-http://147.91.204.115:10124 - ANGULAR
-http://147.91.204.115:10125 - MICROSERVIS FASTAPI
-http://147.91.204.115:10126 - MICROSERVIS FLASK
-
 U lokalu aplikaciju je potrebno pokrenuti na sledeci nacin:
 U folderu neuraro/src/FrontEnd/ je potrebno otvoriti terminal i ukucati komandu npm install i nakon toga ng serve kako bi se pokrenula angular aplikacija
 U folderu neuraro/src/WebService/ je potrebno otvoriti terminal i pokrenuti FastAPI mikroservis komandom uvicorn main:app --reload
