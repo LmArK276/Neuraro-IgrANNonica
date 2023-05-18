@@ -1,3 +1,8 @@
+Timska web aplikacija radjena za potrebe predmeta Softversko Inženjerstvo, koja ima za cilj da korisnicima omogući treniranje neurnoskih mreža.
+Backend pisan u .NET, sa microservisom u Pythonu. Frontend radjen u Angular-u.
+
+
+
 U lokalu aplikaciju je potrebno pokrenuti na sledeci nacin:
 U folderu neuraro/src/FrontEnd/ je potrebno otvoriti terminal i ukucati komandu npm install i nakon toga ng serve kako bi se pokrenula angular aplikacija
 U folderu neuraro/src/WebService/ je potrebno otvoriti terminal i pokrenuti FastAPI mikroservis komandom uvicorn main:app --reload
